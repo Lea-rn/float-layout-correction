@@ -1,0 +1,70 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+*{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+header {
+    background-color: blue;
+    height: 50px;
+}
+
+.cover-photo{
+    background-color: purple;
+    height: 500px;
+}
+
+.sidebar{
+    background-color: rgb(220, 62, 62);
+    width: 30%;
+    height: 600px;
+    float: left;
+}
+
+.container{
+    width: 70%;
+    height: 600px;
+    float: right;
+    
+}
+
+.main{
+    height: 50%;
+    background-color: green;
+}
+.banner{
+    height: 25%;
+    background-color: rgb(191, 210, 52);
+}
+
+.pub-container{
+    height: 25%;
+}
+
+.pub{
+   height: 100%; 
+   width: 70%;
+   background-color: aqua;
+   float: left;
+}
+.img-pub{
+    height: 100%;
+    width: 30%;
+    background-color: green;
+    float: right;
+}
+
+footer {
+    clear: both;
+    background-color: blue;
+    height: 50px;
+    color: white;
+    
+
+}
